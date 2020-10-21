@@ -5,13 +5,13 @@
 	<Style id="sh_beerLocation">
 		<IconStyle>
 			<Icon>
-				<href>https://github.com/VanChuan1998/img/blob/main/beerLocation.png</href>
+				<href>"https://github.com/VanChuan1998/img/blob/main/beerLocation.png"</href>
 			</Icon>
 		</IconStyle>
 	</Style>
 	<Placemark id="placeFix1">
 		<name>Quán Hải Tiến</name>
-		<description><![CDATA[<img style="max-width:250px;" src="https://v-hius.github.io/assets/img/storeFont/HaiTien.png"><br>
+		<description><![CDATA[<img style="max-width:250px;" src="https://github.com/VanChuan1998/img/blob/main/HaiTien.png"><br>
 		Số 27 Đường Đức Thắng, phường Đức Thắng, Bắc Từ Liêm, HN]]></description>
 		<styleUrl>#sh_beerLocation</styleUrl>
 		<Point>
